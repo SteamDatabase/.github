@@ -9,7 +9,7 @@
 
 ### I want to contribute to the code
 
-- Make sure to discuss your ideas with the community in an issue or on the IRC channel.
+- Make sure to discuss your ideas with the community.
 - Take a look at the open issues labeled as `help wanted`
   if you want to help without having a specific idea in mind.
 - Make sure that your PRs do not contain unnecessary commits or merge commits.
